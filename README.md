@@ -163,22 +163,34 @@ The Power BI report (`supply chain.pbix`) consists of four professional pages bu
 - **Page 1: Overview**  
   - KPIs: Total Sales, Profit, Margin %, On-Time Rate  
   - Sales by Market, Segment, and Over Time  
-  - Geographic Sales Map  
+  - Geographic Sales Map
+**Preview:**
+
+![Overview Dashboard](dashboard/Overview.png)
 
 - **Page 2: Delivery Performance**  
   - Late Deliveries by Shipping Mode  
   - Delivery Status Breakdown  
   - Delay Trend Analysis  
 
+**Preview:**
+![Delivery Performance Dashboard](dashboard/Delivery%20Performance.png)
+
 - **Page 3: Sales and Profit Analysis**  
   - Profit vs Sales by Segment  
   - Top Products and Departments  
   - Tree Map Visualization  
 
+**Preview:**
+![Sales & Profit Dashboard](dashboard/Sales%20%26%20Profit%20(2).png)
+
 - **Page 4: Regional Insights**  
   - Regional Profitability Map  
   - KPI Table for Sales, Margin, and Delivery Rates  
   - Profit Margin Gauge  
+
+**Preview:**
+![Regional Insights Dashboard](dashboard/Regional%20Insights.png)
 
 ---
 
